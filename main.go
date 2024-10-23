@@ -16,8 +16,8 @@ func main() {
 	fmt.Println("                                          ")
 	fmt.Println("                                          ")
 	fmt.Println("=========================================")
-	fmt.Println("Get your Ticket to Attend", conferenceName)
+	fmt.Printf("Get your Ticket to Attend %v\n", conferenceName)
 	fmt.Println("=========================================")
-	fmt.Println("Total Tickets:", confereceTickets, "Total Tickets Available:", remainingTickets)
+	fmt.Printf("Total Tickets: %v Total Tickets Available: %v", confereceTickets, remainingTickets)
 
 }
