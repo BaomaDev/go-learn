@@ -14,5 +14,6 @@ perbedaan antara kode yang saya buat dan kode nana:
 Untuk sekarang saya baru hanya melakukan sesuai guide dan belum mencoba untuk membuat perbedaan
 
 # go-database
-![image](https://github.com/user-attachments/assets/b0deb51e-713b-42ca-971a-0de8e7edaaf3)
+![image](https://github.com/user-attachments/assets/366f83b8-c62a-4494-b831-be0f4a054d36)
+
 Mempelajari bagaimana accessing relational database dengan Go dan database/sql package di standard library
